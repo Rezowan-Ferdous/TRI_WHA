@@ -4,3 +4,7 @@ class Myclass{
     //second change
 
 }
+
+class Dashboard{
+    //third line added
+}
